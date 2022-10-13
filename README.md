@@ -13,7 +13,7 @@ Always deliver more than expected, be good to people.
 
 🔭 I’m currently studying at @microverseinc
 
-🌱 I’m currently learning HTML, CSS, Javascript and React
+🌱 I’m currently learning HTML, CSS, JavaScript and React
 
 👨‍💻 All of my projects are available at https://github.com/Goruchie
 
