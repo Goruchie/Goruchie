@@ -9,7 +9,7 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=435&lines=%F0%9F%93%96+About+me)](https://git.io/typing-svg)
                                                              
-🔭 Available to hire<br><br>🌱  I'm a graduate of the Microverse Full-stack Web Development program<br><br>👨‍💻 All of my projects are available at https://github.com/Goruchie<br><br>💬 Ask me about CSS3 and Ruby on Rails<br><br>📫 How to reach me marcosgualtero43253@gmail.com<br><br>⚡ Fun fact I love to play guitar
+🔭 Available for hire<br><br>🌱  I'm a graduate of the Microverse Full-stack Web Development program<br><br>👨‍💻 All of my projects are available at https://github.com/Goruchie<br><br>💬 Ask me about CSS3 and Ruby on Rails<br><br>📫 How to reach me marcosgualtero43253@gmail.com<br><br>⚡ Fun fact I love to play guitar
 
 
 ## 🌐 Socials:
