@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=1&pause=1000&color=29F71F&width=471&lines=Hi+%F0%9F%91%8B%2C+I'm+Marcos,)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=1&pause=1000&color=29F71F&width=471&lines=a+Full+Stack+Developer!)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=29F71F&lines=Hi+%F0%9F%91%8B%2C+I'm+Marcos,)]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=29F71F&lines=a+Full+Stack+Developer!)]
