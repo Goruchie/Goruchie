@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DA9F7&center=true&vCenter=true&width=671&lines=++++++++++++++++++++Hello+Developers!!!)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="[https://media3.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47y2e307uztgikiiea64ubpmnt4mk4yn20nr57bezv&rid=giphy.gif&ct=g](https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp)" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47y2e307uztgikiiea64ubpmnt4mk4yn20nr57bezv&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
 
 Always deliver more than expected, be good to people.
